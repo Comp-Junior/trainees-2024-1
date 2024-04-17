@@ -11,4 +11,7 @@
 - [Isac Gonçalves Cunha](https://github.com/Caquizeraa)
 - [Vinícius Souza Arantes](https://github.com/vinicius-arantes)
 - [Luiz Carlos de Paiva Silva](https://github.com/luizcpaiva)
-- [Enzo Velo](https://github.com/K3yNet)
+- [Enzo Velo](https://github.com/K3yNet) 
+- [Maria Clara Dias](https://github.com/marrieteixeira) 
+
+
