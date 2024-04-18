@@ -14,3 +14,4 @@
 - [Enzo Velo](https://github.com/K3yNet)
 - [Yuri Nogueira](https://github.com/yurinog12)
 - [Petter Douglas](https://github.com/petterdouglas)
+- [Maria Clara Dias](https://github.com/marrieteixeira)
