@@ -12,4 +12,7 @@
 - [Vinícius Souza Arantes](https://github.com/vinicius-arantes)
 - [Luiz Carlos de Paiva Silva](https://github.com/luizcpaiva)
 - [Enzo Velo](https://github.com/K3yNet)
+- [Yuri Nogueira](https://github.com/yurinog12)
+- [Petter Douglas](https://github.com/petterdouglas)
+- [Maria Clara Dias](https://github.com/marrieteixeira)
 - [Willian Brandão de Souza](https://github.com/WillianBrandao)
