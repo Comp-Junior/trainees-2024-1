@@ -13,3 +13,4 @@
 - [Luiz Carlos de Paiva Silva](https://github.com/luizcpaiva)
 - [Enzo Velo](https://github.com/K3yNet)
 - [Yuri Nogueira](https://github.com/yurinog12)
+- [Petter Douglas](https://github.com/petterdouglas)
