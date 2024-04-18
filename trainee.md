@@ -16,3 +16,4 @@
 - [Petter Douglas](https://github.com/petterdouglas)
 - [Maria Clara Dias](https://github.com/marrieteixeira)
 - [Willian Brandão de Souza](https://github.com/WillianBrandao)
+- [Mariana Laura Gonçalves Campos Rufo](https://github.com/marianarufo)
