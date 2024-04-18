@@ -1,8 +1,5 @@
 # Desafio trainees Comp Júnior
 
-## 2021-2
-- [Heitor Rodrigues Sabino](https://github.com/s4bino)
-
 ## 2024-1
 
 <!-- INSIRA SEU NOME E O SEU PERFIL DO GITHUB-->
@@ -15,3 +12,4 @@
 - [Vinícius Souza Arantes](https://github.com/vinicius-arantes)
 - [Luiz Carlos de Paiva Silva](https://github.com/luizcpaiva)
 - [Enzo Velo](https://github.com/K3yNet)
+- [Heitor Rodrigues Sabino](https://github.com/s4bino)
