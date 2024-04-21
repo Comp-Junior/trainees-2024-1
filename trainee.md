@@ -16,3 +16,4 @@
 - [Petter Douglas](https://github.com/petterdouglas)
 - [Maria Clara Dias](https://github.com/marrieteixeira)
 - [Willian Brandão de Souza](https://github.com/WillianBrandao)
+- [Ada Vitória Pereira Ferreira](https://github.com/AdaVitoria)
