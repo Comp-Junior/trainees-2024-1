@@ -23,3 +23,4 @@
 - [Arthur Catarino de Oliveira](https://github.com/ArthurCatarino)
 - [Mariana Laura Gonçalves Campos Rufo](https://github.com/marianarufo)
 - [Patrick Leite Oliveira](https://github.com/PatrickLeite1301)
+- [Leonardo Carvalho Silva](https://github.com/nardo-carvalho)
