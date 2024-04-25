@@ -30,3 +30,4 @@
 - [Mateus Milani Rodrigues](https://github.com/milanimateus)
 - [Deborah Jacob da Silva](https://github.com/deborahjacobb)
 - [João Batista Miguel Silva](https://github.com/joaaobat119)
+- [Henrique Cesar Silva Soares](https://github.com/henriqueecss)
