@@ -18,3 +18,4 @@
 - [Maria Clara Dias](https://github.com/marrieteixeira)
 - [Willian Brandão de Souza](https://github.com/WillianBrandao)
 - [Gustavo Jose](https://github.com/GustavoJoss)
+- [Heitor Rodrigues Sabino](https://github.com/s4bino)
