@@ -19,3 +19,4 @@
 - [Willian Brandão de Souza](https://github.com/WillianBrandao)
 - [Gustavo Jose](https://github.com/GustavoJoss)
 - [Heitor Rodrigues Sabino](https://github.com/s4bino)
+- [Diogo Carrer de Macedo](https://github.com/diogocarrer)
