@@ -26,3 +26,4 @@
 - [Leonardo Carvalho Silva](https://github.com/nardo-carvalho)
 - [Carlos AS Amorim](https://github.com/Piernita)
 - [Pedro Militão Mello Reis](https://github.com/MilitaoPedro)
+- [Miguel Chagas Figueiredo](https://github.com/MiguelChagas)
