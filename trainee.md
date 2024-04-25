@@ -25,3 +25,4 @@
 - [Patrick Leite Oliveira](https://github.com/PatrickLeite1301)
 - [Leonardo Carvalho Silva](https://github.com/nardo-carvalho)
 - [Carlos AS Amorim](https://github.com/Piernita)
+- [Pedro Militão Mello Reis](https://github.com/MilitaoPedro)
