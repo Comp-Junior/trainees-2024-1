@@ -3,7 +3,7 @@
 ## 2024-1
 
 <!-- INSIRA SEU NOME E O SEU PERFIL DO GITHUB-->
-<!-- [Seunome](PERFIL DO GITHUB) -->
+<!-- [Seu Nome](PERFIL DO GITHUB) -->
 - [Gustavo Dantas](https://github.com/dantas15)
 - [Thiago Pereira](https://github.com/thiagolimapereira)
 - [Gabriel Soares](https://github.com/gxbreus)
@@ -20,3 +20,4 @@
 - [Gustavo Jose](https://github.com/GustavoJoss)
 - [Heitor Rodrigues Sabino](https://github.com/s4bino)
 - [Diogo Carrer de Macedo](https://github.com/diogocarrer)
+- [Arthur Catarino de Oliveira](https://github.com/ArthurCatarino)
