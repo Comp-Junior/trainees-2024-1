@@ -21,3 +21,4 @@
 - [Heitor Rodrigues Sabino](https://github.com/s4bino)
 - [Diogo Carrer de Macedo](https://github.com/diogocarrer)
 - [Arthur Catarino de Oliveira](https://github.com/ArthurCatarino)
+- [Mariana Laura Gonçalves Campos Rufo](https://github.com/marianarufo)
