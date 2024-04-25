@@ -22,3 +22,4 @@
 - [Diogo Carrer de Macedo](https://github.com/diogocarrer)
 - [Arthur Catarino de Oliveira](https://github.com/ArthurCatarino)
 - [Mariana Laura Gonçalves Campos Rufo](https://github.com/marianarufo)
+- [Patrick Leite Oliveira](https://github.com/PatrickLeite1301)
