@@ -28,3 +28,4 @@
 - [Pedro Militão Mello Reis](https://github.com/MilitaoPedro)
 - [Miguel Chagas Figueiredo](https://github.com/MiguelChagas)
 - [Mateus Milani Rodrigues](https://github.com/milanimateus)
+- [Deborah Jacob da Silva](https://github.com/deborahjacobb)
